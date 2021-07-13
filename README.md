@@ -13,7 +13,6 @@ This is video calling App with Chat feature and user authentication. The project
 - Raise hand
 - Invite People
 
-took help of clever programmer youTube channel for this project
 
 ## Run Locally
 
@@ -23,3 +22,6 @@ took help of clever programmer youTube channel for this project
  - Open the command prompt from your project directory and run the command npm start.
  - Go to your browser and type http://localhost:5000
  - Hurray! That's it.
+
+## Deployed App link
+   https://immense-savannah-97063.herokuapp.com/
